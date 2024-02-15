@@ -22,7 +22,7 @@ I'm an enthusiastic Front-end Developer and Cloud enthusiast from India. With AW
   <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-1.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" />
