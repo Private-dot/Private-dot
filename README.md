@@ -1,17 +1,17 @@
 [![MasterHead](https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif)](https://rishavchanda.io)
 
-# Hello, I'm Ankit Kumar Nayak! 👋
+# Hey there, I'm Ankit Kumar Nayak! 👋
 
 ## About Me
-I'm a passionate Front-end Developer and Cloud infrastructure learner from India. With AWS certification under my belt, I explore the realms of web development and cloud technologies.
+I'm an enthusiastic Front-end Developer and Cloud enthusiast from India. With AWS certification in hand, I delve into the realms of web development and cloud technologies.
 
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## Current Focus
-- 🌱 Currently diving deep into **React.js**, **Next.js**, and **Three.js**
-- 🔭 Actively involved in crafting **Front-end Projects**
-- 💬 Open to discussions on **Cloud Computing** and **Front-end Development**
-- 📫 You can reach me at [ankitkumaran3@gmail.com](mailto:ankitkumaran3@gmail.com)
+- 🌱 Exploring **React.js**, **Next.js**, and **Three.js**
+- 🔭 Crafting captivating **Front-end Projects**
+- 💬 Ready for discussions on **Cloud Computing** and **Front-end Development**
+- 📫 Reach out to me at [ankitkumaran3@gmail.com](mailto:ankitkumaran3@gmail.com)
 
 ## Connect with Me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ankit-kumar-nayak-2591171b5/)
