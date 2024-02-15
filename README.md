@@ -1,4 +1,4 @@
-[![MasterHead](https://www.snexplores.org/wp-content/uploads/2023/02/1030_ChatGPT_feat.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://rishavchanda.io)
 
 # Hey there, I'm Ankit Kumar Nayak! 👋
 
